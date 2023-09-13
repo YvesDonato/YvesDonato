@@ -1,2 +1,2 @@
 - Hi, I’m @YvesDonato
-- I'm Currently prosuing a degree in computer science.
+- I'm currently prosuing a degree in computer science.
