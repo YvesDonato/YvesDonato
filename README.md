@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @YvesDonato
-- 👀 I’m interested in Video Games Development
-- 🌱 I’m currently learning Unreal Engine 4/5, Advanced Java, C#, and Unreal Blue Prints
-- 📫 How to reach me: Yvesdonato0@gmail.com
+- Hi, I’m @YvesDonato
+- I'm Currently prosuing a degree in computer science.
