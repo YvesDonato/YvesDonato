@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:yvesdonato@pm.me">Email</a> ·
   <a href="https://www.linkedin.com/in/yves-donato-319548250/">LinkedIn</a> ·
-  <a href="https://github.com/YvesDonato">GitHub</a> ·
   <a href="https://drive.google.com/file/d/1tDAa3K6d8u80-2Z3UOptRo8Q326UwkZn/view?usp=sharing">Resume</a>
 </p>
 
